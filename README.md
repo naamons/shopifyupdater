@@ -28,6 +28,3 @@ pip install pandas requests configparser
 
 ## License
 Apache 2.0
-
-## Documentation
-For detailed instructions and troubleshooting, refer to the `docs` directory.
